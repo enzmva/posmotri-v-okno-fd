@@ -128,7 +128,7 @@ ol {
   color: inherit;
   font-weight: 400;
   font-size: 18px;
-  line-height: 21.6px;
+  line-height: 1.2;
 }
 
 .search-form__checkbox-list {
@@ -196,7 +196,6 @@ ol {
 
 .title {
   display: inline-block;
-  padding-bottom: 25px;
   font-family: 'Oswald', sans-serif;
   font-weight: 700;
   font-size: 75px;
